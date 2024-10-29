@@ -1,0 +1,13 @@
+{% extends "index.html" %}
+
+
+{% block title %} Gestion ventas {% endblock %}
+
+{% block cuerpo %}
+<h1>Gestionar ventas Emilio Renteria</h1>
+
+{% for m in lasventas %}
+
+<li>{{m.id_venta}}.-.-.-.{{m.id_cliente}}.-.-.-.{{m.id_empleado}}</li>
+{% endfor %}
+{% endblock %}
