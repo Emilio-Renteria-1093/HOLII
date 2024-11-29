@@ -33,7 +33,7 @@
 - EN URLS VAS A EXTRAER VIEWS DE TU APP PARA PODER DIRECCIONAR TU FUNCION DE VISTA PARA PODER MOSTRARLA
 - ![image](https://github.com/user-attachments/assets/b462889c-8ec2-4527-bcba-65f6a4f8a2de)
 
-
+-https://github.com/Angel-Perez-1086/DAWeb_CRUD_navbar.git
 
 
 
